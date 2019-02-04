@@ -183,6 +183,10 @@ ugrad-ricardoGonzalez:
     role: ugrad
     image: /img/people/Foto_RicardoGonzalez.jpg
 
+ugrad-danielTapia:
+    display_name: Daniel Santiago Tapia Esteban
+    role: ugrad
+
 grad-diegorodriguez:
     display_name: Diego Rodríguez
     role: grad
